@@ -1,7 +1,17 @@
 # 공공 화장실 & 흡연구역 지도 서비스, <흡변구역> - 아이고배야
-2024 멋쟁이사자처럼 12기 중앙 해커톤, 어흥콘 출품작
+**2024 멋쟁이사자처럼 12기 중앙 해커톤, 어흥콘 출품작**
 
-<br/>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+    <!-- 왼쪽 큰 이미지 -->
+    <div style="flex: 1;">
+        <img src="https://github.com/user-attachments/assets/26491e76-5061-4d63-8dff-5564be1d1e36" alt="Left Image" style="width: 100%; height: auto;"/>
+    </div>
+    <!-- 오른쪽 두 개의 작은 이미지 -->
+    <div style="display: flex; flex-direction: column; gap: 10px; flex: 1;">
+        <img src="https://github.com/user-attachments/assets/ab17343e-6661-4fb5-beb5-e3675126297b" alt="Top Right Image" style="width: 100%; height: auto;"/>
+        <img src="https://github.com/user-attachments/assets/8ac46834-b799-4d28-9540-0ec0c672c5e0" alt="Bottom Right Image" style="width: 100%; height: auto;"/>
+    </div>
+</div>
 
 ![Poster](../assets/포스터.png)
 
