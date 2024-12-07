@@ -10,7 +10,7 @@
     </a>
 </p>
 
-![Poster](../assets/포스터.png)
+[![Poster](../assets/포스터.png)](https://www.smoilet.site/)
 
 <br/>
 
