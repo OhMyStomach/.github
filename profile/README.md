@@ -1,8 +1,14 @@
 # 공공 화장실 & 흡연구역 지도 서비스, <흡변구역> - 아이고배야
-**2024 멋쟁이사자처럼 12기 중앙 해커톤, 어흥콘 출품작**
+**2024 [멋쟁이사자처럼 대학](https://likelion.university/) 12기 중앙 해커톤, [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 출품작**
 
-![likelion_banners](https://github.com/user-attachments/assets/a1fd1597-933d-4f52-b44e-602695b52329)
-
+<p align="center">
+    <a href="https://likelion.university">
+      <img src="../assets/likelion_hackathon_banner.png" width="47.5%" />
+    </a>
+    <a href="https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c">
+      <img src="../assets/eoheungcon_banner.png" width="52%" />
+    </a>
+</p>
 
 ![Poster](../assets/포스터.png)
 
